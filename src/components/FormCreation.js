@@ -15,6 +15,7 @@ function FormCreation() {
           value={title}
           placeholder="설문 제목을 입력하세요"
           onChange={onChangeInput}
+          className={styles.titleInput}
         />
         <FormQuestion />
       </div>
