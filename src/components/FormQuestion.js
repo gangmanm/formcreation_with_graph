@@ -3,6 +3,7 @@ import styles from "../css/FormQuestion.module.css";
 import CheckBox from "./CheckBox";
 import styled from "styled-components";
 import { ReactComponent as PlusIcon } from "../img/PlusIcon.svg";
+import QstOptions from "./QstOptions";
 
 const qstInfo = {
   qstId: "",
@@ -153,6 +154,7 @@ function FormQuestion(props) {
                 </select>
               </TypeSelect>
               <button onClick={SaveToArray}>저장</button>
+              <QstOptions qstType={"체크박스"} />
             </MainFrame>
           </>
         ))}
