@@ -2,19 +2,22 @@
   background: black;
   width: 100vw;
   height: 100vh;
-  text-align: center;
 }
 
 .titleInput {
-  width: 30em;
+  width: 20em;
   height: 5em;
-  display: block;
   font-size: 2em;
+  margin: auto;
+  display: block;
+  background-color: black;
+  padding-top: 2em;
 }
 
 .titleField {
   width: 40em;
-  height: 3em;
+  height: 5em;
+  margin: auto;
+  display: block;
   text-align: center;
-  margin: 3em 3em;
 }

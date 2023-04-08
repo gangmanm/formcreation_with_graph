@@ -9,7 +9,7 @@ function FormCreation() {
   };
   return (
     <div className={styles.fm}>
-      <div clasName={styles.titleInput}>
+      <div className={styles.titleInput}>
         <input
           type="text"
           value={title}
@@ -17,8 +17,8 @@ function FormCreation() {
           onChange={onChangeInput}
           className={styles.titleField}
         />
-        <FormQuestion />
       </div>
+      <FormQuestion />
     </div>
   );
 }
