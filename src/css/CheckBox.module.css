@@ -1,3 +1,7 @@
 .typeSelect {
   display: inline-block;
 }
+
+.checkBox {
+  display: block;
+}

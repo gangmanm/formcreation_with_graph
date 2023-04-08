@@ -8,7 +8,11 @@
 
 .titleField {
   display: inline;
-  width: 30rem;
+  width: 10rem;
   height: 2rem;
   margin: 1rem 1rem;
+}
+
+.typeSelect {
+  display: inline-block;
 }
