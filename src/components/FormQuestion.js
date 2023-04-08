@@ -1,9 +1,10 @@
 import React from "react";
 import styles from "../css/FormQuestion.module.css";
+import CheckBox from "./CheckBox";
 function FormQuestion() {
   return (
-    <div>
-      <div className={styles.quesBody}></div>
+    <div className={styles.quesBody}>
+      <CheckBox />
     </div>
   );
 }

@@ -8,14 +8,14 @@ function FormCreation() {
     setTitle(e.target.value);
   };
   return (
-    <div>
-      <div className={styles.fm}>
+    <div className={styles.fm}>
+      <div clasName={styles.titleInput}>
         <input
           type="text"
           value={title}
           placeholder="설문 제목을 입력하세요"
           onChange={onChangeInput}
-          className={styles.titleInput}
+          className={styles.titleField}
         />
         <FormQuestion />
       </div>

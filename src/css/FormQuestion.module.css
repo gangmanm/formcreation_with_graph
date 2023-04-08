@@ -1,6 +1,7 @@
 .quesBody {
-  width: 50vw;
-  height: 30vh;
   background-color: white;
-  display: inline-block;
+  display: block;
+  margin: auto;
+  width: 50em;
+  height: 20em;
 }
