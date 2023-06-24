@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/formcreation_with_graph/static/css/main.8b6c2354.css",
+    "main.js": "/formcreation_with_graph/static/js/main.8bd96385.js",
+    "static/js/787.dfe8b844.chunk.js": "/formcreation_with_graph/static/js/787.dfe8b844.chunk.js",
+    "static/media/ryanface.png": "/formcreation_with_graph/static/media/ryanface.5ae143e1fd60a59ad50a.png",
+    "static/media/ryan.png": "/formcreation_with_graph/static/media/ryan.af566e4df31e16568a76.png",
+    "static/media/on.svg": "/formcreation_with_graph/static/media/on.71ac7030aa464959da9539343bc766a0.svg",
+    "static/media/off.svg": "/formcreation_with_graph/static/media/off.35094e288c47dda545a27a331f49f7d3.svg",
+    "static/media/trash.svg": "/formcreation_with_graph/static/media/trash.06a5a3875512d5874043d00a7962c303.svg",
+    "index.html": "/formcreation_with_graph/index.html",
+    "static/media/edit.svg": "/formcreation_with_graph/static/media/edit.9ffcba17249ce9dbaa6fcbee3d771a0e.svg",
+    "static/media/x.svg": "/formcreation_with_graph/static/media/x.05be576a1912e24b6eee60a1505b3770.svg",
+    "static/media/xImg.svg": "/formcreation_with_graph/static/media/xImg.b5ae9701bdc8c85e0d0bd90720fd7593.svg",
+    "static/media/dots.svg": "/formcreation_with_graph/static/media/dots.76962cc3dfc1614977c010ec6d5a941c.svg",
+    "static/media/add.svg": "/formcreation_with_graph/static/media/add.521d5dfc8251e6ced4156e0866306271.svg",
+    "static/media/check.svg": "/formcreation_with_graph/static/media/check.c8ba4af2beb2f2239718b12382253e69.svg",
+    "static/media/Arrow.svg": "/formcreation_with_graph/static/media/Arrow.dc50a6d39ebd99bd212c3b09c8f47ade.svg",
+    "static/media/check_false.svg": "/formcreation_with_graph/static/media/check_false.9908ad89ab7bb7b729227af500d9c3ef.svg",
+    "static/media/check_on.svg": "/formcreation_with_graph/static/media/check_on.f9351638afd97a7d0b60c169305b141e.svg",
+    "main.8b6c2354.css.map": "/formcreation_with_graph/static/css/main.8b6c2354.css.map",
+    "main.8bd96385.js.map": "/formcreation_with_graph/static/js/main.8bd96385.js.map",
+    "787.dfe8b844.chunk.js.map": "/formcreation_with_graph/static/js/787.dfe8b844.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b6c2354.css",
+    "static/js/main.8bd96385.js"
+  ]
+}
