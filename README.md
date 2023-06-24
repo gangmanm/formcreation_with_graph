@@ -1,4 +1,7 @@
 # 그래프를 이용한 설문지 만들기 페이지 
+### 사이트 방문
+https://gangmanm.github.io/formcreation_with_graph/
+
 
 간단한 설문지를 제작할 수 있는 페이지 입니다. 
 
@@ -24,3 +27,5 @@ https://github.com/gangmanm/formcreation_with_graph/assets/97601109/b557d3a7-d5d
 # 분기 질문 추가 그래프 편집
 https://github.com/gangmanm/formcreation_with_graph/assets/97601109/11df5688-8a1a-4cfb-a9ad-07c4e7576d84
 
+# 그래프 이미지 저장
+![image](https://github.com/gangmanm/formcreation_with_graph/assets/97601109/13345113-6e56-4eea-bf9e-e1acc36b7a91)
